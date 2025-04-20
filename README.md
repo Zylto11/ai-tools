@@ -82,7 +82,7 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟢 [Qwen](https://chat.qwen.ai) - Chat based LLM
 
-🟢 [Llama](https://www.meta.ai) - Chat Based LLM
+🟢 [Meta AI](https://www.meta.ai) - Chat Based LLM
 
 🟢 [Gemini](https://gemini.google.com/) - Chat Based LLM
 
