@@ -65,6 +65,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟢 [Point-E](https://github.com/openai/point-e) - 3D Modeling point clouds
 
+🟢 [NeRF Studio](https://github.com/nerfstudio-project/nerfstudio) - 3D Modeling point clouds
+
 # Text Generation
 🟡 [ChatGPT](https://chat.com/) - Chat based & Coding LLM 
 
@@ -171,3 +173,5 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 🔴 [Dimenxioner](https://dimenxioner.com/) - Generate 3D models
 
 🟢 [Point-E](https://github.com/openai/point-e) - 3D Generating point clouds
+
+🟢 [NeRF Studio](https://github.com/nerfstudio-project/nerfstudio) - 3D Modeling point clouds
