@@ -63,6 +63,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟢 [AgentGPT](https://github.com/reworkd/AgentGPT) - Agent creator
 
+🟢 [Point-E](https://github.com/openai/point-e) - 3D Modeling point clouds
+
 # Text Generation
 🟡 [ChatGPT](https://chat.com/) - Chat based & Coding LLM 
 
@@ -167,3 +169,5 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 🔴 [Kaedim3d](https://www.kaedim3d.com) - Generate 3D models
 
 🔴 [Dimenxioner](https://dimenxioner.com/) - Generate 3D models
+
+🟢 [Point-E](https://github.com/openai/point-e) - 3D Generating point clouds
