@@ -55,7 +55,7 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟢 [Librechat](https://www.librechat.ai) - Code generation & agents
 
-🟢 [Whisper](https://github.com/openai/whisper) - Speech To Text
+🟢 [Whisper](https://github.com/openai/whisper) - Voice transcription
 
 🟢 [AnimateDiff](https://github.com/guoyww/AnimateDiff) - Animated video generation
 
