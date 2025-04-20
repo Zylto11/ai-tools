@@ -204,10 +204,15 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 # Code Editors
 🟢 [Trae](https://trae.ai) - AI code editor
-🟡 [Cursor](https://cursor.ai) - AI code editor
-🟡 [Windsurf](https://windsurf.com/editor) - AI Code Editor
-🟡 [PearAI](https://trypear.ai/) - AI code editor
-🟡 [Zed](https://zed.dev/) - AI code editor
-🟡 [Github Co-Pilot](https://github.com/features/copilot) - VS Code Extension
-🟡 [Cline](https://cline.bot/) - VS Code Extension
 
+🟡 [Cursor](https://cursor.ai) - AI code editor
+
+🟡 [Windsurf](https://windsurf.com/editor) - AI Code Editor
+
+🟡 [PearAI](https://trypear.ai/) - AI code editor
+
+🟡 [Zed](https://zed.dev/) - AI code editor
+
+🟡 [Github Co-Pilot](https://github.com/features/copilot) - VS Code Extension
+
+🟡 [Cline](https://cline.bot/) - VS Code Extension
