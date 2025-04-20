@@ -54,6 +54,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟢 [Whisper](https://github.com/openai/whisper) - Speech To Text
 
+🟢 [AnimateDiff](https://github.com/guoyww/AnimateDiff) - Video generation
+
 # Text Generation
 🟡 [ChatGPT](https://chat.com/) - Chat based & Coding LLM 
 
@@ -110,6 +112,10 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 🔴 [Kaiber AI](https://www.kaiber.ai) - Video generation
 
 🟡 [Descript](www.descript.com/) - Video editor
+
+🟡 [Gling](https://www.gling.ai) - Video editor
+
+🟢 [AnimateDiff](https://github.com/guoyww/AnimateDiff) - Video generation
 
 # Data & Research
 🟡 [Grok](https://grok.com/) - Research & Real Time News Based LLM
