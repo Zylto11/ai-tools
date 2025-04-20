@@ -163,4 +163,5 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 # Modeling Assistants
 🟡 [Meshy](https://www.meshy.ai) - Generate 3D models
+
 🔴 [Kaedim3d](https://www.kaedim3d.com) - Generate 3D models
