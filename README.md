@@ -53,6 +53,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟢 [Librechat](https://www.librechat.ai) - Code generation & agents
 
+🟢 [Whisper](https://github.com/openai/whisper) - Speech To Text
+
 # Text Generation
 🟡 [ChatGPT](https://chat.com/) - Chat based & Coding LLM 
 
@@ -96,6 +98,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 🟢 [GPT SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - A fast real time tts with low data input
 
 🟢 [OpenVoice](https://github.com/myshell-ai/OpenVoice) - Voice generation
+
+🟢 [Whisper](https://github.com/openai/whisper) - Speech To Text
 
 # Video Editing & Generation
 🟡 [Runway ML](https://app.runwayml.com/) - Video generation
