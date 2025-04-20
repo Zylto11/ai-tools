@@ -70,6 +70,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟢 [MetaGPT](https://github.com/geekan/MetaGPT) - Agent creator
 
+🟢 [BabyAGI](https://github.com/yoheinakajima/babyagi) - Agent creator
+
 # Text Generation
 🟡 [ChatGPT](https://chat.com/) - Chat based & Coding LLM 
 
@@ -173,6 +175,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 🟢 [MetaGPT](https://github.com/geekan/MetaGPT) - Agent creator
 
 🟢 [Camel AI](https://github.com/camel-ai/camel) - Agent creator 
+
+🟢 [BabyAGI](https://github.com/yoheinakajima/babyagi) - Agent creator
 
 # Modeling Assistants
 🟡 [Meshy](https://www.meshy.ai) - Generate 3D models
