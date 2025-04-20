@@ -54,7 +54,7 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟢 [Whisper](https://github.com/openai/whisper) - Speech To Text
 
-🟢 [AnimateDiff](https://github.com/guoyww/AnimateDiff) - Video generation
+🟢 [AnimateDiff](https://github.com/guoyww/AnimateDiff) - Animated video generation
 
 # Text Generation
 🟡 [ChatGPT](https://chat.com/) - Chat based & Coding LLM 
@@ -115,7 +115,7 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟡 [Gling](https://www.gling.ai) - Video editor
 
-🟢 [AnimateDiff](https://github.com/guoyww/AnimateDiff) - Video generation
+🟢 [AnimateDiff](https://github.com/guoyww/AnimateDiff) - Animated video generation
 
 # Data & Research
 🟡 [Grok](https://grok.com/) - Research & Real Time News Based LLM
