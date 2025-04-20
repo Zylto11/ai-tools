@@ -17,7 +17,6 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 - [Code Assistants](#code-assistants)
 - [Voice & Audio](#voice--audio)
 - [Video Editing & Generation](#video-editing--generation)
-- [Productivity & Utilities](#productivity--utilities)
 - [Data & Research](#data--research)
 
 # Self Hosted Tools
@@ -105,6 +104,12 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 🟡 [Runway ML](https://app.runwayml.com/) - Video generation
 
 🔴 [Sora](https://sora.com) - Video Generation
+
+🟡 [Pollo AI](https://pollo.ai/ai-video-generator) - Video generation
+
+🔴 [Kaiber AI](https://www.kaiber.ai) - Video generation
+
+🟡 [Descript](www.descript.com/) - Video editor
 
 # Data & Research
 🟡 [Grok](https://grok.com/) - Research & Real Time News Based LLM
