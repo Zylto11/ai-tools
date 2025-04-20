@@ -19,6 +19,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 - [Video Editing & Generation](#video-editing--generation)
 - [Music Generation](#music-generation)
 - [Data & Research](#data--research)
+- [Agents](#agents)
+- [Modeling Generation](#modeling-assistants)
 
 # Self Hosted Tools
 🟢 [oLlama](https://ollama.com/) - Host any open source LLM on your PC
@@ -56,6 +58,10 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 🟢 [Whisper](https://github.com/openai/whisper) - Speech To Text
 
 🟢 [AnimateDiff](https://github.com/guoyww/AnimateDiff) - Animated video generation
+
+🟢 [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Agent creator
+
+🟢 [AgentGPT](https://github.com/reworkd/AgentGPT) - Agent creator
 
 # Text Generation
 🟡 [ChatGPT](https://chat.com/) - Chat based & Coding LLM 
@@ -149,3 +155,12 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 🟡 [Explain Paper](https://www.explainpaper.com) - Research based llm
 
 🟡 [Pandas AI](https://github.com/sinaptik-ai/pandas-ai) - Data based llm
+
+# Agents
+🟢 [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Agent creator
+
+🟢 [AgentGPT](https://github.com/reworkd/AgentGPT) - Agent creator
+
+# Modeling Assistants
+🟡 [Meshy](https://www.meshy.ai) - Generate 3D models
+🔴 [Kaedim3d](https://www.kaedim3d.com) - Generate 3D models
