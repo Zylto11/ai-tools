@@ -121,3 +121,13 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 🟡 [Grok](https://grok.com/) - Research & Real Time News Based LLM
 
 🟡 [Perplexity](https://www.perplexity.ai) - Research Based LLM
+
+🟡 [Elicit](https://elicit.com/) - Research based llm
+
+🔴 [Scite](https://scite.ai) - Research based llm
+
+🟡 [PDF AI](https://pdf.ai) - Research based llm
+
+🟡 [Explain Paper](https://www.explainpaper.com) - Research based llm
+
+🟡 [Pandas AI](https://github.com/sinaptik-ai/pandas-ai) - Data based llm
