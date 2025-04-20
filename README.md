@@ -165,3 +165,5 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 🟡 [Meshy](https://www.meshy.ai) - Generate 3D models
 
 🔴 [Kaedim3d](https://www.kaedim3d.com) - Generate 3D models
+
+🔴 [Dimenxioner](https://dimenxioner.com/) - Generate 3D models
