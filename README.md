@@ -68,6 +68,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟢 [NeRF Studio](https://github.com/nerfstudio-project/nerfstudio) - 3D Modeling point clouds
 
+🟢 [MetaGPT](https://github.com/geekan/MetaGPT) - Agent creator
+
 # Text Generation
 🟡 [ChatGPT](https://chat.com/) - Chat based & Coding LLM 
 
@@ -165,6 +167,12 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 🟢 [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Agent creator
 
 🟢 [AgentGPT](https://github.com/reworkd/AgentGPT) - Agent creator
+
+🔴 [SuperAGI](https://superagi.com) - Agent creator 
+
+🟢 [MetaGPT](https://github.com/geekan/MetaGPT) - Agent creator
+
+🟢 [Camel AI](https://github.com/camel-ai/camel) - Agent creator 
 
 # Modeling Assistants
 🟡 [Meshy](https://www.meshy.ai) - Generate 3D models
