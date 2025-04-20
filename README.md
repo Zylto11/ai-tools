@@ -17,6 +17,7 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 - [Code Assistants](#code-assistants)
 - [Voice & Audio](#voice--audio)
 - [Video Editing & Generation](#video-editing--generation)
+- [Music Generation](#music-generation)
 - [Data & Research](#data--research)
 
 # Self Hosted Tools
@@ -100,7 +101,13 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟢 [OpenVoice](https://github.com/myshell-ai/OpenVoice) - Voice generation
 
-🟢 [Whisper](https://github.com/openai/whisper) - Speech To Text
+🟢 [Whisper](https://github.com/openai/whisper) - Voice transcription
+
+🟡 [Eleven Labs](https://elevenlabs.io) - Voice generation
+
+🟡 [Otter AI](https://otter.ai) - Voice transcription
+
+🟡 [Assembly AI](https://www.assemblyai.com) - Voice transcription
 
 # Video Editing & Generation
 🟡 [Runway ML](https://app.runwayml.com/) - Video generation
@@ -116,6 +123,15 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 🟡 [Gling](https://www.gling.ai) - Video editor
 
 🟢 [AnimateDiff](https://github.com/guoyww/AnimateDiff) - Animated video generation
+
+# Music Generation
+🟡 [Suno](https://suno.com) - Music generation
+
+🟡 [Aiva](https://www.aiva.ai) - Music Generation
+
+🟡 [Boomy](https://boomy.com) - Music Generation
+
+🔴 [Soundraw](https://soundraw.io) - Music Generation
 
 # Data & Research
 🟡 [Grok](https://grok.com/) - Research & Real Time News Based LLM
