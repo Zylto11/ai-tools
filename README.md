@@ -114,6 +114,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟡 [Claude](https://claude.ai/) - Chat Based & Coding LLM
 
+🟡 [Korbit](https://www.korbit.ai) - Code reviews
+
 # Voice & Audio
 🟢 [Tortoise TTS](https://github.com/neonbjb/tortoise-tts) - Voice generation
 
