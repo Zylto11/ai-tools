@@ -12,6 +12,7 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 ## 🧩 Categories
 
+- [Self Hosted](#self-hosted-tools)
 - [Text Generation](#text-generation)
 - [Image Generation](#image-generation)
 - [Code Assistants](#code-assistants)
