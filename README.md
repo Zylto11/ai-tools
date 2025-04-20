@@ -76,41 +76,41 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 🟢 [Smol Developer](https://github.com/smol-ai/developer) - Code generation
 
 # Text Generation
-🟡 [ChatGPT](https://chat.com/) - Chat based & Coding LLM 
-
 🟢 [DeepSeek](https://chat.deepseek.com/) - Chat based LLM 
 
 🟢 [Llama](https://www.meta.ai) - Chat Based LLM
 
-🟡 [Claude](https://claude.ai/) - Chat Based & Coding LLM
-
 🟢 [Gemini](https://gemini.google.com/) - Chat Based LLM
+
+🟡 [ChatGPT](https://chat.com/) - Chat based & Coding LLM 
+
+🟡 [Claude](https://claude.ai/) - Chat Based & Coding LLM
 
 🟡 [Mistral](https://chat.mistral.ai/) - Chat Based LLM
 
 # Image Generation
-🟡 [SDXL Turbo](https://sdxlturbo.ai) - Image generation
-
-🟡 [Leonardo AI](https://leonardo.ai) - Image generation
-
-🟡 [Dall-E](https://openai.com/index/dall-e-3/) - Image Generation (Requires ChatGPT)
-
 🟢 [Stable Diffusion](https://github.com/CompVis/stable-diffusion) - Image generation
 
 🟢 [Kandinsky 3](https://github.com/ai-forever/Kandinsky-3) - Image generation
 
 🟢 [Deep Floyd](https://github.com/deep-floyd/IF) - Image generation
 
+🟡 [SDXL Turbo](https://sdxlturbo.ai) - Image generation
+
+🟡 [Leonardo AI](https://leonardo.ai) - Image generation
+
+🟡 [Dall-E](https://openai.com/index/dall-e-3/) - Image Generation (Requires ChatGPT)
+
 # Code Assistants
-🟡 [ChatGPT](https://chat.com/) - Chat based & Coding LLM 
-
-🟡 [Claude](https://claude.ai/) - Chat Based & Coding LLM
-
 🟢 [OpenDevin](https://github.com/AI-App/OpenDevin.OpenDevin) - Code generation
 
 🟢 [Librechat](https://www.librechat.ai) - Code generation & agents
 
 🟢 [Smol Developer](https://github.com/smol-ai/developer) - Code generation
+
+🟡 [ChatGPT](https://chat.com/) - Chat based & Coding LLM 
+
+🟡 [Claude](https://claude.ai/) - Chat Based & Coding LLM
 
 # Voice & Audio
 🟢 [Tortoise TTS](https://github.com/neonbjb/tortoise-tts) - Voice generation
@@ -132,21 +132,21 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 🟡 [Assembly AI](https://www.assemblyai.com) - Voice transcription
 
 # Video Editing & Generation
+🟢 [AnimateDiff](https://github.com/guoyww/AnimateDiff) - Animated video generation
+
 🟡 [Runway ML](https://app.runwayml.com/) - Video generation
 
-🔴 [Sora](https://sora.com) - Video Generation
-
 🟡 [Pollo AI](https://pollo.ai/ai-video-generator) - Video generation
-
-🔴 [Kaiber AI](https://www.kaiber.ai) - Video generation
 
 🟡 [Descript](www.descript.com/) - Video editor
 
 🟡 [Gling](https://www.gling.ai) - Video editor
 
-🟢 [AnimateDiff](https://github.com/guoyww/AnimateDiff) - Animated video generation
-
 🟡 [DeepMotion](https://www.deepmotion.com) - 3D Animated motion tracking generation
+
+🔴 [Kaiber AI](https://www.kaiber.ai) - Video generation
+
+🔴 [Sora](https://sora.com) - Video Generation
 
 # Music Generation
 🟡 [Suno](https://suno.com) - Music generation
@@ -166,20 +166,18 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟡 [Elicit](https://elicit.com/) - Research based llm
 
-🔴 [Scite](https://scite.ai) - Research based llm
-
 🟡 [PDF AI](https://pdf.ai) - Research based llm
 
 🟡 [Explain Paper](https://www.explainpaper.com) - Research based llm
 
 🟡 [Pandas AI](https://github.com/sinaptik-ai/pandas-ai) - Data based llm
 
+🔴 [Scite](https://scite.ai) - Research based llm
+
 # Agents
 🟢 [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Agent creator
 
 🟢 [AgentGPT](https://github.com/reworkd/AgentGPT) - Agent creator
-
-🔴 [SuperAGI](https://superagi.com) - Agent creator 
 
 🟢 [MetaGPT](https://github.com/geekan/MetaGPT) - Agent creator
 
@@ -189,18 +187,20 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟢 [Librechat](https://www.librechat.ai) - Code generation & agents
 
+🔴 [SuperAGI](https://superagi.com) - Agent creator 
+
 # Modeling Assistants
-🟡 [Meshy](https://www.meshy.ai) - Generate 3D models
-
-🔴 [Kaedim3d](https://www.kaedim3d.com) - Generate 3D models
-
-🔴 [Dimenxioner](https://dimenxioner.com/) - Generate 3D models
-
 🟢 [Point-E](https://github.com/openai/point-e) - 3D Generating point clouds
 
 🟢 [NeRF Studio](https://github.com/nerfstudio-project/nerfstudio) - 3D Modeling point clouds
 
 🟢 [Trelis 3D](https://trellis3d.co/) - Generate 3D models from images
+
+🟡 [Meshy](https://www.meshy.ai) - Generate 3D models
+
+🔴 [Kaedim3d](https://www.kaedim3d.com) - Generate 3D models
+
+🔴 [Dimenxioner](https://dimenxioner.com/) - Generate 3D models
 
 # Code Editors
 🟢 [Trae](https://trae.ai) - AI code editor
