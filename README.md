@@ -76,13 +76,15 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 🟢 [Smol Developer](https://github.com/smol-ai/developer) - Code generation
 
 # Text Generation
-🟢 [DeepSeek](https://chat.deepseek.com/) - Chat based LLM 
+🟢 [DeepSeek](https://chat.deepseek.com/) - Chat based LLM
+
+🟢 [Qwen](https://chat.qwen.ai) - Chat based LLM
 
 🟢 [Llama](https://www.meta.ai) - Chat Based LLM
 
 🟢 [Gemini](https://gemini.google.com/) - Chat Based LLM
 
-🟡 [ChatGPT](https://chat.com/) - Chat based & Coding LLM 
+🟡 [ChatGPT](https://chat.com/) - Chat based & Coding LLM
 
 🟡 [Claude](https://claude.ai/) - Chat Based & Coding LLM
 
@@ -108,7 +110,7 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟢 [Smol Developer](https://github.com/smol-ai/developer) - Code generation
 
-🟡 [ChatGPT](https://chat.com/) - Chat based & Coding LLM 
+🟡 [ChatGPT](https://chat.com/) - Chat based & Coding LLM
 
 🟡 [Claude](https://claude.ai/) - Chat Based & Coding LLM
 
@@ -181,13 +183,13 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟢 [MetaGPT](https://github.com/geekan/MetaGPT) - Agent creator
 
-🟢 [Camel AI](https://github.com/camel-ai/camel) - Agent creator 
+🟢 [Camel AI](https://github.com/camel-ai/camel) - Agent creator
 
 🟢 [BabyAGI](https://github.com/yoheinakajima/babyagi) - Agent creator
 
 🟢 [Librechat](https://www.librechat.ai) - Code generation & agents
 
-🔴 [SuperAGI](https://superagi.com) - Agent creator 
+🔴 [SuperAGI](https://superagi.com) - Agent creator
 
 # Modeling Assistants
 🟢 [Point-E](https://github.com/openai/point-e) - 3D Generating point clouds
