@@ -175,3 +175,5 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 🟢 [Point-E](https://github.com/openai/point-e) - 3D Generating point clouds
 
 🟢 [NeRF Studio](https://github.com/nerfstudio-project/nerfstudio) - 3D Modeling point clouds
+
+🟢 [Trelis 3D](https://trellis3d.co/) - Generate 3D models from images
