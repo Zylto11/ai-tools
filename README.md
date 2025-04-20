@@ -86,6 +86,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟢 [OpenDevin](https://github.com/AI-App/OpenDevin.OpenDevin) - Code generation
 
+🟢 [Librechat](https://www.librechat.ai) - Code generation & agents
+
 # Voice & Audio
 🟢 [Tortoise TTS](https://github.com/neonbjb/tortoise-tts) - Voice generation
 
