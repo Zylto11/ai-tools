@@ -182,6 +182,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟢 [BabyAGI](https://github.com/yoheinakajima/babyagi) - Agent creator
 
+🟢 [Librechat](https://www.librechat.ai) - Code generation & agents
+
 # Modeling Assistants
 🟡 [Meshy](https://www.meshy.ai) - Generate 3D models
 
