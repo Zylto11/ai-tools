@@ -124,6 +124,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟢 [AnimateDiff](https://github.com/guoyww/AnimateDiff) - Animated video generation
 
+🟡 [DeepMotion](https://www.deepmotion.com) - 3D Animated motion tracking generation
+
 # Music Generation
 🟡 [Suno](https://suno.com) - Music generation
 
