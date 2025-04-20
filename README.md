@@ -22,6 +22,7 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 - [Data & Research](#data--research)
 - [Agents](#agents)
 - [Modeling Generation](#modeling-assistants)
+- [Code Editors](#code-editors)
 
 # Self Hosted Tools
 🟢 [oLlama](https://ollama.com/) - Host any open source LLM on your PC
@@ -124,6 +125,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟡 [Eleven Labs](https://elevenlabs.io) - Voice generation
 
+🟡 [Fish.audio](https://fish.audio/) - Voice generation
+
 🟡 [Otter AI](https://otter.ai) - Voice transcription
 
 🟡 [Assembly AI](https://www.assemblyai.com) - Voice transcription
@@ -151,6 +154,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 🟡 [Aiva](https://www.aiva.ai) - Music Generation
 
 🟡 [Boomy](https://boomy.com) - Music Generation
+
+🟡 [Udio](https://www.udio.com/) - Music Generation
 
 🔴 [Soundraw](https://soundraw.io) - Music Generation
 
@@ -196,3 +201,13 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 🟢 [NeRF Studio](https://github.com/nerfstudio-project/nerfstudio) - 3D Modeling point clouds
 
 🟢 [Trelis 3D](https://trellis3d.co/) - Generate 3D models from images
+
+# Code Editors
+🟢 [Trae](https://trae.ai) - AI code editor
+🟡 [Cursor](https://cursor.ai) - AI code editor
+🟡 [Windsurf](https://windsurf.com/editor) - AI Code Editor
+🟡 [PearAI](https://trypear.ai/) - AI code editor
+🟡 [Zed](https://zed.dev/) - AI code editor
+🟡 [Github Co-Pilot](https://github.com/features/copilot) - VS Code Extension
+🟡 [Cline](https://cline.bot/) - VS Code Extension
+
