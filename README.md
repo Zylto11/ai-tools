@@ -75,6 +75,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟢 [Smol Developer](https://github.com/smol-ai/developer) - Code generation
 
+🟢 [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) - A web ui to interact with downloaded ai models
+
 # Text Generation
 🟢 [DeepSeek](https://chat.deepseek.com/) - Chat based LLM
 
