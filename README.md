@@ -129,6 +129,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟢 [Whisper](https://github.com/openai/whisper) - Voice transcription
 
+🟢 [Kokoro](https://github.com/hexgrad/kokoro) - Voice generation
+
 🟡 [Eleven Labs](https://elevenlabs.io) - Voice generation
 
 🟡 [Fish.audio](https://fish.audio/) - Voice generation
@@ -136,8 +138,6 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 🟡 [Otter AI](https://otter.ai) - Voice transcription
 
 🟡 [Assembly AI](https://www.assemblyai.com) - Voice transcription
-
-🟢 [Kokoro](https://github.com/hexgrad/kokoro) - Voice generation
 
 # Video Editing & Generation
 🟢 [AnimateDiff](https://github.com/guoyww/AnimateDiff) - Animated video generation
