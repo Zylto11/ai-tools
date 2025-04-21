@@ -75,6 +75,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟢 [Smol Developer](https://github.com/smol-ai/developer) - Code generation
 
+🟢 [Kokoro](https://github.com/hexgrad/kokoro) - Voice generation
+
 # Text Generation
 🟢 [DeepSeek](https://chat.deepseek.com/) - Chat based LLM
 
@@ -134,6 +136,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 🟡 [Otter AI](https://otter.ai) - Voice transcription
 
 🟡 [Assembly AI](https://www.assemblyai.com) - Voice transcription
+
+🟢 [Kokoro](https://github.com/hexgrad/kokoro) - Voice generation
 
 # Video Editing & Generation
 🟢 [AnimateDiff](https://github.com/guoyww/AnimateDiff) - Animated video generation
