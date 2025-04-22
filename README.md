@@ -77,6 +77,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟢 [Kokoro](https://github.com/hexgrad/kokoro) - Voice generation
 
+🟢 [AI Playground](https://game.intel.com/us/stories/introducing-ai-playground/) - AI Playground for Intel Arc GPUs
+
 # Text Generation
 🟢 [DeepSeek](https://chat.deepseek.com/) - Chat based LLM
 
