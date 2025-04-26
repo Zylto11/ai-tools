@@ -79,6 +79,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟢 [AI Playground](https://game.intel.com/us/stories/introducing-ai-playground/) - AI Playground for Intel Arc GPUs
 
+🟢 [Hunyuan3D](https://github.com/tencent/Hunyuan3D-2) - 3D Model generation from images & text
+
 # Text Generation
 🟢 [DeepSeek](https://chat.deepseek.com/) - Chat based LLM
 
@@ -205,6 +207,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 🟢 [NeRF Studio](https://github.com/nerfstudio-project/nerfstudio) - 3D Modeling point clouds
 
 🟢 [Trelis 3D](https://trellis3d.co/) - Generate 3D models from images
+
+🟢 [Hunyuan3D](https://github.com/tencent/Hunyuan3D-2) - 3D Model generation from images & text
 
 🟡 [Meshy](https://www.meshy.ai) - Generate 3D models
 
