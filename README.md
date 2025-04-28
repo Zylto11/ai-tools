@@ -82,6 +82,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 
 🟢 [Hunyuan3D](https://github.com/tencent/Hunyuan3D-2) - 3D Model generation from images & text
 
+🟢 [Kobold Cpp](https://github.com/LostRuins/koboldcpp) - zero install, gguf llm hosting
+
 🔴 [Bolt](https://github.com/stackblitz/bolt.new/blob/main/CONTRIBUTING.md) - Generate full stack websites
 
 # Text Generation
