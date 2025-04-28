@@ -23,6 +23,7 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 - [Agents](#agents)
 - [Modeling Generation](#modeling-assistants)
 - [Code Editors](#code-editors)
+- [Web Builders](#web-builders)
 
 # Self Hosted Tools
 🟢 [oLlama](https://ollama.com/) - Host any open source LLM on your PC
@@ -80,6 +81,8 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 🟢 [AI Playground](https://game.intel.com/us/stories/introducing-ai-playground/) - AI Playground for Intel Arc GPUs
 
 🟢 [Hunyuan3D](https://github.com/tencent/Hunyuan3D-2) - 3D Model generation from images & text
+
+🔴 [Bolt](https://github.com/stackblitz/bolt.new/blob/main/CONTRIBUTING.md) - Generate full stack websites
 
 # Text Generation
 🟢 [DeepSeek](https://chat.deepseek.com/) - Chat based LLM
@@ -230,3 +233,10 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 🟡 [Github Co-Pilot](https://github.com/features/copilot) - VS Code Extension
 
 🟡 [Cline](https://cline.bot/) - VS Code Extension
+
+# Web Builders
+🟡 [Lovable](https://lovable.dev) - Generate full stack websites
+
+🟡 [Builder](https://www.builder.io) - Interactive website creation
+
+🔴 [Bolt](https://github.com/stackblitz/bolt.new/blob/main/CONTRIBUTING.md) - Generate full stack websites
