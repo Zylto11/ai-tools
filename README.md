@@ -1,12 +1,28 @@
-A curated archive of AI tools from early development to 2025. Tools are categorized by function and marked with pricing status:
+# Welcome To ai-tools!
+#### This is a curated archive of AI tools from early development to 2025. Tools are categorized by function and marked with pricing status and their Liscencing:
 
+### Pricing
 - 🟢 **Free**
 - 🟡 **Freemium**
 - 🔴 **Paid**
 
+### Liscencing
+- ⛔ **Explicitly not allowed**
+- 🔒 **closed source**
+- ❓ **Other**
+- ✅ **allowed commercial and private**
+> [For example, 🟢 IcantThinkOfAnAIName 🔒⛔ -> would be Free to use , with a publically unavalible model and its technical deatails hidden]
+
+
 > _Contributions welcome! Submit a PR if you'd like to add a tool or correct info._
 
-You will see duplicates of ais spewed out if they have multiple most common use cases.
+You will see duplicates of AI's spewed out if they have multiple most common use cases. 
+
+
+### Disclaimer
+This curated list of AI tools is provided for informational purposes only.
+We make no guarantees as to the accuracy, completeness, or suitability of any tool, and assume no liability for any outcomes—financial, mental, legal, or otherwise—that may arise from using (or mis‑using) these resources.
+Use at your own risk.
 
 ---
 
@@ -25,220 +41,158 @@ You will see duplicates of ais spewed out if they have multiple most common use 
 - [Code Editors](#code-editors)
 - [Web Builders](#web-builders)
 
-# Self Hosted Tools
-🟢 [oLlama](https://ollama.com/) - Host any open source LLM on your PC
-
-🟢 [Open WebUI](https://github.com/open-webui/open-webui) - A web ui like OpenAI's interface for oLlama
-
-🟢 [GPT SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - A fast real time voice generation with low data input
-
-🟢 [Stable Diffusion](https://github.com/CompVis/stable-diffusion) - Image generation
-
-🟢 [Kandinsky 3](https://github.com/ai-forever/Kandinsky-3) - Image generation
-
-🟢 [Deep Floyd](https://github.com/deep-floyd/IF) - Image generation
-
-🟢 [LM Studio](https://lmstudio.ai) - Host open source LLMs on your PC
-
-🟢 [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) - Text generation based web ui
-
-🟢 [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Image generation based web ui
-
-🟢 [Local AI](https://localai.io) - The complete all in one ai stack
-
-🟢 [ComfyUI](https://www.comfy.org) - Image generation
-
-🟢 [Tortoise TTS](https://github.com/neonbjb/tortoise-tts) - Voice generation
-
-🟢 [Conqui TTS](https://github.com/coqui-ai/TTS) - Voice generation
-
-🟢 [OpenVoice](https://github.com/myshell-ai/OpenVoice) - Voice generation
-
-🟢 [OpenDevin](https://github.com/AI-App/OpenDevin.OpenDevin) - Code generation
-
-🟢 [Librechat](https://www.librechat.ai) - Code generation & agents
-
-🟢 [Whisper](https://github.com/openai/whisper) - Voice transcription
-
-🟢 [AnimateDiff](https://github.com/guoyww/AnimateDiff) - Animated video generation
-
-🟢 [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Agent creator
-
-🟢 [AgentGPT](https://github.com/reworkd/AgentGPT) - Agent creator
-
-🟢 [Point-E](https://github.com/openai/point-e) - 3D Modeling point clouds
-
-🟢 [NeRF Studio](https://github.com/nerfstudio-project/nerfstudio) - 3D Modeling point clouds
-
-🟢 [MetaGPT](https://github.com/geekan/MetaGPT) - Agent creator
-
-🟢 [BabyAGI](https://github.com/yoheinakajima/babyagi) - Agent creator
-
-🟢 [Smol Developer](https://github.com/smol-ai/developer) - Code generation
-
-🟢 [Kokoro](https://github.com/hexgrad/kokoro) - Voice generation
-
-🟢 [AI Playground](https://game.intel.com/us/stories/introducing-ai-playground/) - AI Playground for Intel Arc GPUs
-
-🟢 [Hunyuan3D](https://github.com/tencent/Hunyuan3D-2) - 3D Model generation from images & text
-
-🟢 [Kobold Cpp](https://github.com/LostRuins/koboldcpp) - zero install, gguf llm hosting
-
-🔴 [Bolt](https://github.com/stackblitz/bolt.new/blob/main/CONTRIBUTING.md) - Generate full stack websites
-
-# Text Generation
-🟢 [DeepSeek](https://chat.deepseek.com/) - Chat based LLM
-
-🟢 [Qwen](https://chat.qwen.ai) - Chat based LLM
-
-🟢 [Meta AI](https://www.meta.ai) - Chat Based LLM
-
-🟢 [Gemini](https://gemini.google.com/) - Chat Based LLM
-
-🟡 [ChatGPT](https://chat.com/) - Chat based & Coding LLM
-
-🟡 [Claude](https://claude.ai/) - Chat Based & Coding LLM
-
-🟡 [Mistral](https://chat.mistral.ai/) - Chat Based LLM
-
-# Image Generation
-🟢 [Stable Diffusion](https://github.com/CompVis/stable-diffusion) - Image generation
-
-🟢 [Kandinsky 3](https://github.com/ai-forever/Kandinsky-3) - Image generation
-
-🟢 [Deep Floyd](https://github.com/deep-floyd/IF) - Image generation
-
-🟡 [SDXL Turbo](https://sdxlturbo.ai) - Image generation
-
-🟡 [Leonardo AI](https://leonardo.ai) - Image generation
-
-🟡 [Dall-E](https://openai.com/index/dall-e-3/) - Image Generation (Requires ChatGPT)
-
-# Code Assistants
-🟢 [OpenDevin](https://github.com/AI-App/OpenDevin.OpenDevin) - Code generation
-
-🟢 [Librechat](https://www.librechat.ai) - Code generation & agents
-
-🟢 [Smol Developer](https://github.com/smol-ai/developer) - Code generation
-
-🟡 [ChatGPT](https://chat.com/) - Chat based & Coding LLM
-
-🟡 [Claude](https://claude.ai/) - Chat Based & Coding LLM
-
-🟡 [Korbit](https://www.korbit.ai) - Code reviews
-
-# Voice & Audio
-🟢 [Tortoise TTS](https://github.com/neonbjb/tortoise-tts) - Voice generation
-
-🟢 [Conqui TTS](https://github.com/coqui-ai/TTS) - Voice generation
-
-🟢 [GPT SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - A fast real time tts with low data input
-
-🟢 [OpenVoice](https://github.com/myshell-ai/OpenVoice) - Voice generation
-
-🟢 [Whisper](https://github.com/openai/whisper) - Voice transcription
-
-🟢 [Kokoro](https://github.com/hexgrad/kokoro) - Voice generation
-
-🟡 [Eleven Labs](https://elevenlabs.io) - Voice generation
-
-🟡 [Fish.audio](https://fish.audio/) - Voice generation
-
-🟡 [Otter AI](https://otter.ai) - Voice transcription
-
-🟡 [Assembly AI](https://www.assemblyai.com) - Voice transcription
-
-# Video Editing & Generation
-🟢 [AnimateDiff](https://github.com/guoyww/AnimateDiff) - Animated video generation
-
-🟡 [Runway ML](https://app.runwayml.com/) - Video generation
-
-🟡 [Pollo AI](https://pollo.ai/ai-video-generator) - Video generation
-
-🟡 [Descript](www.descript.com/) - Video editor
-
-🟡 [Gling](https://www.gling.ai) - Video editor
-
-🟡 [DeepMotion](https://www.deepmotion.com) - 3D Animated motion tracking generation
-
-🔴 [Kaiber AI](https://www.kaiber.ai) - Video generation
-
-🔴 [Sora](https://sora.com) - Video Generation
-
-# Music Generation
-🟡 [Suno](https://suno.com) - Music generation
-
-🟡 [Aiva](https://www.aiva.ai) - Music Generation
-
-🟡 [Boomy](https://boomy.com) - Music Generation
-
-🟡 [Udio](https://www.udio.com/) - Music Generation
-
-🔴 [Soundraw](https://soundraw.io) - Music Generation
-
-# Data & Research
-🟡 [Grok](https://grok.com/) - Research & Real Time News Based LLM
-
-🟡 [Perplexity](https://www.perplexity.ai) - Research Based LLM
-
-🟡 [Elicit](https://elicit.com/) - Research based llm
-
-🟡 [PDF AI](https://pdf.ai) - Research based llm
-
-🟡 [Explain Paper](https://www.explainpaper.com) - Research based llm
-
-🟡 [Pandas AI](https://github.com/sinaptik-ai/pandas-ai) - Data based llm
-
-🔴 [Scite](https://scite.ai) - Research based llm
-
-# Agents
-🟢 [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Agent creator
-
-🟢 [AgentGPT](https://github.com/reworkd/AgentGPT) - Agent creator
-
-🟢 [MetaGPT](https://github.com/geekan/MetaGPT) - Agent creator
-
-🟢 [Camel AI](https://github.com/camel-ai/camel) - Agent creator
-
-🟢 [BabyAGI](https://github.com/yoheinakajima/babyagi) - Agent creator
-
-🟢 [Librechat](https://www.librechat.ai) - Code generation & agents
-
-🔴 [SuperAGI](https://superagi.com) - Agent creator
-
-# Modeling Assistants
-🟢 [Point-E](https://github.com/openai/point-e) - 3D Generating point clouds
-
-🟢 [NeRF Studio](https://github.com/nerfstudio-project/nerfstudio) - 3D Modeling point clouds
-
-🟢 [Trelis 3D](https://trellis3d.co/) - Generate 3D models from images
-
-🟢 [Hunyuan3D](https://github.com/tencent/Hunyuan3D-2) - 3D Model generation from images & text
-
-🟡 [Meshy](https://www.meshy.ai) - Generate 3D models
-
-🔴 [Kaedim3d](https://www.kaedim3d.com) - Generate 3D models
-
-🔴 [Dimenxioner](https://dimenxioner.com/) - Generate 3D models
-
-# Code Editors
-🟢 [Trae](https://trae.ai) - AI code editor
-
-🟡 [Cursor](https://cursor.ai) - AI code editor
-
-🟡 [Windsurf](https://windsurf.com/editor) - AI Code Editor
-
-🟡 [PearAI](https://trypear.ai/) - AI code editor
-
-🟡 [Zed](https://zed.dev/) - AI code editor
-
-🟡 [Github Co-Pilot](https://github.com/features/copilot) - VS Code Extension
-
-🟡 [Cline](https://cline.bot/) - VS Code Extension
-
-# Web Builders
-🟡 [Lovable](https://lovable.dev) - Generate full stack websites
-
-🟡 [Builder](https://www.builder.io) - Interactive website creation
-
-🔴 [Bolt](https://github.com/stackblitz/bolt.new/blob/main/CONTRIBUTING.md) - Generate full stack websites
+---
+## Chart
+
+### Self Hosted Tools
+| Tool                                                                                 | License / Notes                                                                 | Symbol |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- | ------ |
+| 🟢 [oLlama](https://ollama.com/)                                                     | Meta Llama‑3 Community License – free ≤700 M MAU, attribution & policy required | ✅🔒    |
+| 🟢 [Open WebUI](https://github.com/open-webui/open-webui)                            | MIT frontend; inherits backend model licenses                                   | ✅      |
+| 🟢 [GPT SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)                              | Apache‑style open source                                                        | ✅      |
+| 🟢 [Stable Diffusion](https://github.com/CompVis/stable-diffusion)                   | CreativeML OpenRAIL‑M; commercial allowed under use restrictions                | ✅      |
+| 🟢 [Kandinsky 3](https://github.com/ai-forever/Kandinsky-3)                          | Apache‑style open source                                                        | ✅      |
+| 🟢 [Deep Floyd](https://github.com/deep-floyd/IF)                                    | Apache‑style open source                                                        | ✅      |
+| 🟢 [LM Studio](https://lmstudio.ai)                                                  | GUI—underlying model licenses apply                                             | ❓      |
+| 🟢 [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)       | MIT                                                                             | ✅      |
+| 🟢 [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | AGPL‑3.0                                                                        | ✅🔒    |
+| 🟢 [Local AI](https://localai.io)                                                    | OSS—all model licenses apply                                                    | ❓      |
+| 🟢 [ComfyUI](https://www.comfy.org)                                                  | Permissive OSS                                                                  | ✅      |
+| 🟢 [Tortoise TTS](https://github.com/neonbjb/tortoise-tts)                           | Apache‑style                                                                    | ✅      |
+| 🟢 [Conqui TTS](https://github.com/coqui-ai/TTS)                                     | Apache‑style                                                                    | ✅      |
+| 🟢 [OpenVoice](https://github.com/myshell-ai/OpenVoice)                              | MIT/Apache‑style                                                                | ✅      |
+| 🟢 [OpenDevin](https://github.com/AI-App/OpenDevin.OpenDevin)                        | MIT/Apache‑style                                                                | ✅      |
+| 🟢 [Librechat](https://www.librechat.ai)                                             | Apache‑style OSS                                                                | ✅      |
+| 🟢 [Whisper](https://github.com/openai/whisper)                                      | MIT                                                                             | ✅      |
+| 🟢 [AnimateDiff](https://github.com/guoyww/AnimateDiff)                              | MIT                                                                             | ✅      |
+| 🟢 [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)                        | MIT‑style OSS                                                                   | ✅      |
+| 🟢 [AgentGPT](https://github.com/reworkd/AgentGPT)                                   | MIT‑style OSS                                                                   | ✅      |
+| 🟢 [Point‑E](https://github.com/openai/point-e)                                      | Apache‑style OSS                                                                | ✅      |
+| 🟢 [NeRF Studio](https://github.com/nerfstudio-project/nerfstudio)                   | Apache‑style OSS                                                                | ✅      |
+| 🟢 [MetaGPT](https://github.com/geekan/MetaGPT)                                      | MIT‑style OSS                                                                   | ✅      |
+| 🟢 [BabyAGI](https://github.com/yoheinakajima/babyagi)                               | MIT‑style OSS                                                                   | ✅      |
+| 🟢 [Smol Developer](https://github.com/smol-ai/developer)                            | MIT                                                                             | ✅      |
+| 🟢 [Kokoro](https://github.com/hexgrad/kokoro)                                       | OSS                                                                             | ✅      |
+| 🟢 [AI Playground](https://game.intel.com/us/stories/introducing-ai-playground/)     | Intel proprietary; unclear terms                                                | 🔒❓    |
+| 🟢 [Hunyuan3D](https://github.com/tencent/Hunyuan3D-2)                               | Apache‑style OSS                                                                | ✅      |
+| 🟢 [Kobold Cpp](https://github.com/LostRuins/koboldcpp)                              | MIT (via llama.cpp)                                                             | ✅      |
+| 🔴 [Bolt](https://github.com/stackblitz/bolt.new/blob/main/CONTRIBUTING.md)          | Closed‑source; no commercial use                                                | 🔒⛔    |
+
+### Text Generation
+| Tool                                      | License / Notes                   | Symbol |
+| ----------------------------------------- | --------------------------------- | ------ |
+| 🟢 [DeepSeek](https://chat.deepseek.com/) | Freemium API, proprietary backend | 🔒⛔    |
+| 🟢 [Qwen](https://chat.qwen.ai)           | Freemium API, proprietary backend | 🔒⛔    |
+| 🟢 [Meta AI](https://www.meta.ai)         | Freemium API, proprietary backend | 🔒⛔    |
+| 🟢 [Gemini](https://gemini.google.com/)   | Freemium API, proprietary backend | 🔒⛔    |
+| 🟡 [ChatGPT](https://chat.com/)           | Closed‑source API                 | 🔒⛔    |
+| 🟡 [Claude](https://claude.ai/)           | Closed‑source API                 | 🔒⛔    |
+| 🟡 [Mistral](https://chat.mistral.ai/)    | Closed‑source API                 | 🔒⛔    |
+
+### Image Generation
+| Tool                                                               | License / Notes                                                  | Symbol |
+| ------------------------------------------------------------------ | ---------------------------------------------------------------- | ------ |
+| 🟢 [Stable Diffusion](https://github.com/CompVis/stable-diffusion) | CreativeML OpenRAIL‑M; commercial allowed under use restrictions | ✅      |
+| 🟢 [Kandinsky 3](https://github.com/ai-forever/Kandinsky-3)        | Apache‑style OSS                                                 | ✅      |
+| 🟢 [Deep Floyd](https://github.com/deep-floyd/IF)                  | Apache‑style OSS                                                 | ✅      |
+| 🟡 [SDXL Turbo](https://sdxlturbo.ai)                              | Proprietary API                                                  | 🔒⛔    |
+| 🟡 [Leonardo AI](https://leonardo.ai)                              | Proprietary API                                                  | 🔒⛔    |
+| 🟡 [Dall‑E](https://openai.com/index/dall-e-3/)                    | Proprietary API                                                  | 🔒⛔    |
+
+### Code Assistants
+| Tool                                                          | License / Notes      | Symbol |
+| ------------------------------------------------------------- | -------------------- | ------ |
+| 🟢 [OpenDevin](https://github.com/AI-App/OpenDevin.OpenDevin) | MIT/Apache‑style OSS | ✅      |
+| 🟢 [Librechat](https://www.librechat.ai)                      | Apache‑style OSS     | ✅      |
+| 🟢 [Smol Developer](https://github.com/smol-ai/developer)     | MIT                  | ✅      |
+| 🟡 [ChatGPT](https://chat.com/)                               | Closed‑source API    | 🔒⛔    |
+| 🟡 [Claude](https://claude.ai/)                               | Closed‑source API    | 🔒⛔    |
+| 🟡 [Korbit](https://www.korbit.ai)                            | Closed‑source API    | 🔒⛔    |
+
+### Voice & Audio
+| Tool                                                       | License / Notes      | Symbol |
+| ---------------------------------------------------------- | -------------------- | ------ |
+| 🟢 [Tortoise TTS](https://github.com/neonbjb/tortoise-tts) | Apache‑style OSS     | ✅      |
+| 🟢 [Conqui TTS](https://github.com/coqui-ai/TTS)           | Apache‑style OSS     | ✅      |
+| 🟢 [GPT SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)    | Apache‑style OSS     | ✅      |
+| 🟢 [OpenVoice](https://github.com/myshell-ai/OpenVoice)    | MIT/Apache‑style OSS | ✅      |
+| 🟢 [Whisper](https://github.com/openai/whisper)            | MIT                  | ✅      |
+| 🟢 [Kokoro](https://github.com/hexgrad/kokoro)             | OSS                  | ✅      |
+| 🟡 [Eleven Labs](https://elevenlabs.io)                    | Proprietary          | 🔒⛔    |
+| 🟡 [Fish.audio](https://fish.audio/)                       | Proprietary          | 🔒⛔    |
+| 🟡 [Otter AI](https://otter.ai)                            | Proprietary          | 🔒⛔    |
+| 🟡 [Assembly AI](https://www.assemblyai.com)               | Proprietary          | 🔒⛔    |
+
+### Video Editing & Generation
+| Tool                                                    | License / Notes | Symbol |
+| ------------------------------------------------------- | --------------- | ------ |
+| 🟢 [AnimateDiff](https://github.com/guoyww/AnimateDiff) | MIT             | ✅      |
+| 🟡 [Runway ML](https://app.runwayml.com/)               | Proprietary     | 🔒⛔    |
+| 🟡 [Pollo AI](https://pollo.ai/ai-video-generator)      | Proprietary     | 🔒⛔    |
+| 🟡 [Descript](https://www.descript.com/)                | Proprietary     | 🔒⛔    |
+| 🟡 [Gling](https://www.gling.ai)                        | Proprietary     | 🔒⛔    |
+| 🟡 [DeepMotion](https://www.deepmotion.com)             | Proprietary     | 🔒⛔    |
+| 🔴 [Kaiber AI](https://www.kaiber.ai)                   | Closed‑source   | 🔒⛔    |
+| 🔴 [Sora](https://sora.com)                             | Closed‑source   | 🔒⛔    |
+
+### Music Generation
+| Tool                               | License / Notes | Symbol |
+| ---------------------------------- | --------------- | ------ |
+| 🟡 [Suno](https://suno.com)        | Proprietary     | 🔒⛔    |
+| 🟡 [Aiva](https://www.aiva.ai)     | Proprietary     | 🔒⛔    |
+| 🟡 [Boomy](https://boomy.com)      | Proprietary     | 🔒⛔    |
+| 🟡 [Udio](https://www.udio.com/)   | Proprietary     | 🔒⛔    |
+| 🔴 [Soundraw](https://soundraw.io) | Proprietary     | 🔒⛔    |
+
+### Data & Research
+| Tool                                                     | License / Notes         | Symbol |
+| -------------------------------------------------------- | ----------------------- | ------ |
+| 🟡 [Grok](https://grok.com/)                             | Proprietary API         | 🔒⛔    |
+| 🟡 [Perplexity](https://perplexity.ai)                   | Proprietary API         | 🔒⛔    |
+| 🟡 [Elicit](https://elicit.com/)                         | Proprietary API         | 🔒⛔    |
+| 🟡 [PDF AI](https://pdf.ai)                              | Proprietary API         | 🔒⛔    |
+| 🟡 [Explain Paper](https://www.explainpaper.com)         | Proprietary API         | 🔒⛔    |
+| 🟡 [Pandas AI](https://github.com/sinaptik-ai/pandas-ai) | Proprietary / Open code | 🔒⛔    |
+| 🔴 [Scite](https://scite.ai)                             | Proprietary             | 🔒⛔    |
+
+### Agents
+| Tool                                                          | License / Notes      | Symbol |
+| ------------------------------------------------------------- | -------------------- | ------ |
+| 🟢 [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | MIT‑style OSS        | ✅      |
+| 🟢 [AgentGPT](https://github.com/reworkd/AgentGPT)            | MIT‑style OSS        | ✅      |
+| 🟢 [MetaGPT](https://github.com/geekan/MetaGPT)               | MIT‑style OSS        | ✅      |
+| 🟢 [Camel AI](https://github.com/camel-ai/camel)              | MIT/Apache‑style OSS | ✅      |
+| 🟢 [BabyAGI](https://github.com/yoheinakajima/babyagi)        | MIT‑style OSS        | ✅      |
+| 🟢 [Librechat](https://www.librechat.ai)                      | Apache‑style OSS     | ✅      |
+| 🔴 [SuperAGI](https://superagi.com)                           | Closed‑source        | 🔒⛔    |
+
+### Modeling Assistants
+| Tool                                                               | License / Notes      | Symbol |
+| ------------------------------------------------------------------ | -------------------- | ------ |
+| 🟢 [Point‑E](https://github.com/openai/point-e)                    | Apache‑style OSS     | ✅      |
+| 🟢 [NeRF Studio](https://github.com/nerfstudio-project/nerfstudio) | Apache‑style OSS     | ✅      |
+| 🟢 [Trelis 3D](https://trellis3d.co/)                              | Proprietary freemium | 🔒⛔    |
+| 🟢 [Hunyuan3D](https://github.com/tencent/Hunyuan3D-2)             | Apache‑style OSS     | ✅      |
+| 🟡 [Meshy](https://www.meshy.ai)                                   | Proprietary          | 🔒⛔    |
+| 🔴 [Kaedim3d](https://www.kaedim3d.com)                            | Proprietary          | 🔒⛔    |
+| 🔴 [Dimenxioner](https://dimenxioner.com/)                         | Proprietary          | 🔒⛔    |
+
+### Code Editors
+| Tool                                                      | License / Notes | Symbol |
+| --------------------------------------------------------- | --------------- | ------ |
+| 🟢 [Trae](https://trae.ai)                                | MIT/A OSS       | ✅      |
+| 🟡 [Cursor](https://cursor.ai)                            | Proprietary     | 🔒⛔    |
+| 🟡 [Windsurf](https://windsurf.com/editor)                | Proprietary     | 🔒⛔    |
+| 🟡 [PearAI](https://trypear.ai/)                          | Proprietary     | 🔒⛔    |
+| 🟡 [Zed](https://zed.dev/)                                | Proprietary     | 🔒⛔    |
+| 🟡 [GitHub Co‑Pilot](https://github.com/features/copilot) | Proprietary     | 🔒⛔    |
+| 🟡 [Cline](https://cline.bot/)                            | Proprietary     | 🔒⛔    |
+
+### Web Builders
+| Tool                                                                        | License / Notes                  | Symbol |
+| --------------------------------------------------------------------------- | -------------------------------- | ------ |
+| 🟡 [Lovable](https://lovable.dev)                                           | Proprietary                      | 🔒⛔    |
+| 🟡 [Builder](https://www.builder.io)                                        | Proprietary                      | 🔒⛔    |
+| 🔴 [Bolt](https://github.com/stackblitz/bolt.new/blob/main/CONTRIBUTING.md) | Closed‑source; no commercial use | 🔒⛔    |
+
+*Information Last Updated on 7th July 2025*
